@@ -1,0 +1,10 @@
+{
+    "pl_confidence_threshold": 0.75,
+
+    "vel_threshold_degrees": 100,
+    "spherical_pos_mean_filt_size": 9,
+    "spherical_pos_median_filt_size": 9,
+    "spherical_vel_mean_filt_size": 5,
+    "spherical_vel_median_filt_size": 5
+    
+}
